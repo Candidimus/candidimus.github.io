@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to JohnSux Pages
 
-You can use the [editor on GitHub](https://github.com/Candidimus/candidimus.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+blah blah blah md is a bad format
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, a baby goat falls off a cliff.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a clunky mess of a syntax how am i even editing this.
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted poo block
 
 # Header 1
 ## Header 2
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**wow** and _this_ and `sucks` text
 
 [Link](url) and ![Image](src)
 ```
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Candidimus/candidimus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected which I guess aren't too bad I suppose.
 
 ### Support or Contact
 
