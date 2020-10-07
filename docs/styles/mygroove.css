@@ -1,0 +1,17 @@
+ /*
+   class things go here that are to be defined below, eg. h1,h2,h3,body
+*/{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+  
+/*
+   can also add individual formats like so
+   
+   body {
+  blahdyblah blah stuff here: 1; }
+
+*/
